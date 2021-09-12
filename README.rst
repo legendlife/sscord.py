@@ -93,7 +93,7 @@ Quick Example
     client.run('token')
 
 Bot Example
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
 
 .. code:: py
 
