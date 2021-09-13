@@ -1,4 +1,4 @@
-discord.py
+sscord.py a fork of discord.py
 ==========
 
 .. image:: https://discord.com/api/guilds/336642139381301249/embed.png
