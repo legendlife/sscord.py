@@ -45,10 +45,10 @@ Otherwise to get voice support you should run the following command:
 .. code:: sh
 
     # Linux/macOS
-    python3 -m pip install -U "sscord.py[voice]"
+    python3 -m pip install -U "discord.py[voice]"
 
     # Windows
-    py -3 -m pip install -U sscord.py[voice]
+    py -3 -m pip install -U discord.py[voice]
 
 
 To install the development version, do the following:
@@ -56,7 +56,7 @@ To install the development version, do the following:
 .. code:: sh
 
     $ git clone https://github.com/legendlife/sscord.py
-    $ cd sscord.py
+    $ cd discord.py
     $ python3 -m pip install -U .[voice]
 
 
