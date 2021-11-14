@@ -25,7 +25,7 @@ Key Features:
 - Proper rate limit handling.
 - Optimised in both speed and memory.
 
-Installing
+Installing:
 ----------
 
 **Python 3.8 or higher is required**
@@ -60,7 +60,7 @@ To install the development version, do the following:
     $ python3 -m pip install -U .[voice]
 
 
-Optional Packages
+Optional Packages:
 ~~~~~~~~~~~~~~~~~~
 
 * `PyNaCl <https://pypi.org/project/PyNaCl/>`__ (for voice support)
@@ -110,12 +110,12 @@ Bot Example
 
 You can find more examples in the examples directory.
 
-Links
+Links:
 ------
 - `Documentation <https://discordpy.readthedocs.io/en/latest/index.html>`_
 - `Official Discord Server <https://discord.gg/r3sSKJJ>`_
 - `Discord API <https://discord.gg/discord-api>`_
 
-Orginal Version
+Orginal Version:
 ------
 - `discord.py <https://github.com/Rapptz/discord.py>`_
